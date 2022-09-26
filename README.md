@@ -1,16 +1,4 @@
-# 🚧 README em construção 🚧
+Olá!
 
-<!-- Olá, Tryber!
-
-Esse é apenas um arquivo inicial para o README do seu projeto.
-
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+Nesse projeto de codinome One For All usei uma tabela para revisar e consolidar todos os principais conceitos de MySQL vistos até aqui.
+A tabela estava 'não normalizada' onde eu deveria normalizada e também populada para então começar a executar algumas queries com o intuito de encontrar todas as informações solicitas.
